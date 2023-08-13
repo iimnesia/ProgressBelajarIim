@@ -1,7 +1,7 @@
 # ProgressBelajarIim
 Repository ini berisi pengalaman saya mengikuti kegiatan MSIB dicoding 
 
-Pertemuan tanggal 12-08-2023 
+**Pertemuan tanggal 12-08-2023**   
 Github
 - Commit : perintah untuk menyimpan file
 - Checkout : pengembalian kondisi berkas ke waktu yg dituju
